@@ -1,1 +1,7 @@
-# Discord-
+!help   Shows this message
+!start  開始執行監控任務
+!status 查看目前的設定狀態與網址
+!stop   暫停監控任務
+!test   測試機器人是否能在當前頻道說話
+!time   設定檢查頻率 (秒)
+!url    設定要監控的拓元網址
